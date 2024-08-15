@@ -8,7 +8,7 @@
 
 ```
 <div class="offer__action">
-	<button data-modal class="btn btn_dark">Связаться с нами</button>
+	<button data-modal class="btn btn_dark">contact us</button>
 </div>
 ```
 ```
@@ -17,10 +17,10 @@
 		<div class="modal__content">
 			<form action="#">
 				<div data-close class="modal__close">&times;</div>
-				<div class="modal__title">Мы свяжемся с вами как можно быстрее!</div>
-				<input required placeholder="Ваше имя" name="name" type="text" class="modal__input">
-				<input required placeholder="Ваш номер телефона" name="phone" type="phone" class="modal__input">
-				<button class="btn btn_dark btn_min">Перезвонить мне</button>
+				<div class="modal__title">We will get in touch with you as soon as possible!</div>
+				<input required placeholder="Your name" name="name" type="text" class="modal__input">
+				<input required placeholder="Your phone number" name="phone" type="phone" class="modal__input">
+				<button class="btn btn_dark btn_min">Call me back</button>
 			</form>
 		</div>
 	</div>
